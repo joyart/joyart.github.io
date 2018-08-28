@@ -33,21 +33,36 @@ footer
     background-color: #454545;
 }
 
+header ul, footer ul
+{
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+header ul li, footer ul li
+{
+    display: inline;
+    margin-right: 20px;
+}
+
 a, a:visited, a:focus
 {
-  color: #73c179;
-  text-decoration: none;
-  transition: .15s;
+    color: #73c179;
+    text-decoration: none;
+    transition: .15s;
 }
 
 a:hover
 {
-  color: #4e8251;
+    color: #4e8251;
 }
 
 a img
 {
-  border: 0;
+    border: 0;
 }
 
 .container
