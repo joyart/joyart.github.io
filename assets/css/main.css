@@ -10,9 +10,14 @@ html
     box-sizing: inherit;
 }
 
-body
+header
 {
     background-color: #454545;
+}
+
+body
+{
+    background-color: #262626;
     font-family: 'News Cycle', sans-serif;
     text-align: left;
     color: #fff;
@@ -21,6 +26,11 @@ body
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
+}
+
+footer
+{
+    background-color: #454545;
 }
 
 .container
@@ -36,3 +46,4 @@ body
     padding-top: 2em;
     padding-bottom: 2em;
 }
+
