@@ -33,6 +33,23 @@ footer
     background-color: #454545;
 }
 
+a, a:visited, a:focus
+{
+  color: #73c179;
+  text-decoration: none;
+  transition: .15s;
+}
+
+a:hover
+{
+  color: #4e8251;
+}
+
+a img
+{
+  border: 0;
+}
+
 .container
 {
 	position: relative;
