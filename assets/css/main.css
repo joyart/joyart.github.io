@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle');
+
+html
+{
+    box-sizing: border-box;
+}
+
+*, *:before, *:after
+{
+    box-sizing: inherit;
+}
+
+body
+{
+    background-color: #454545;
+    font-family: 'News Cycle', sans-serif;
+}

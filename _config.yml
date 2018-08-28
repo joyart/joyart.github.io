@@ -1,0 +1,5 @@
+name: Joyart Show
+markdown: kramdown
+permalink: /gallery/:title
+gems:
+  - jekyll-sitemap
